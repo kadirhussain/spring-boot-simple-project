@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+E:\spring-boot-njja12\simple-spring-boot\.metadata\.plugins\org.eclipse.jdt.core
